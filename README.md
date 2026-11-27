@@ -30,6 +30,7 @@
 🔹 Building real-world applications with modern technologies  
 🔹 Experienced in developing APIs, dashboards & full-stack systems  
 🔹 Active learner focused on continuous improvement  
+🔹 Skilled in **Power BI, Data Visualization & Business Intelligence**
 
 ### 🧠 DSA & Problem Solving
 - Solving coding challenges regularly on LeetCode
