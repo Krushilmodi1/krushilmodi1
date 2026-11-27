@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Data Studio">
+  <defs>
+    <linearGradient id="mbg-data-studio-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1626"/>
+      <stop offset="100%" stop-color="#13213A"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="68" rx="18" fill="url(#mbg-data-studio-dark)" stroke="#94B8E8" stroke-opacity="0.24" stroke-width="1.2"/>
+  <rect x="14" y="12" width="46" height="46" rx="13" fill="#172947" stroke="#8CC8FF" stroke-opacity="0.28" stroke-width="1"/>
+  
+        <rect x="24" y="21" width="12" height="12" rx="3" fill="#8CC8FF" fill-opacity="0.88"/>
+        <rect x="39" y="21" width="12" height="12" rx="3" fill="#CBD5E1" fill-opacity="0.32"/>
+        <rect x="24" y="36" width="12" height="12" rx="3" fill="#CBD5E1" fill-opacity="0.32"/>
+        <rect x="39" y="36" width="12" height="12" rx="3" fill="#8CC8FF" fill-opacity="0.55"/>
+  <text x="76" y="30" fill="#8CC8FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.6">MODULE 01</text>
+  <text x="76" y="51" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Data Studio</text>
+  <text x="1172" y="40" text-anchor="end" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">Spatial Climate Modeling · Statistical Behavioral Analytics</text>
+</svg>

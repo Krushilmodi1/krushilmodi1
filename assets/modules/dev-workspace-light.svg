@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Dev Workspace">
+  <defs>
+    <linearGradient id="mbg-dev-workspace-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FBFF"/>
+      <stop offset="100%" stop-color="#EDF3FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="68" rx="18" fill="url(#mbg-dev-workspace-light)" stroke="#94A3B8" stroke-opacity="0.32" stroke-width="1.2"/>
+  <rect x="14" y="12" width="46" height="46" rx="13" fill="#E0EAFC" stroke="#1D4ED8" stroke-opacity="0.28" stroke-width="1"/>
+  
+        <rect x="23" y="22" width="28" height="24" rx="5" fill="none" stroke="#1E293B" stroke-width="1.8" stroke-opacity="0.65"/>
+        <path d="M23 30 H51" stroke="#1E293B" stroke-width="1.5" stroke-opacity="0.35"/>
+        <circle cx="28.5" cy="26" r="1.5" fill="#1D4ED8"/>
+        <path d="M31 36 L35 39 L31 42 M38 42 H44" stroke="#1D4ED8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="76" y="30" fill="#1D4ED8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.6">MODULE 03</text>
+  <text x="76" y="51" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Dev Workspace</text>
+  <text x="1172" y="40" text-anchor="end" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">Full-Stack TypeScript, React &amp; Algorithmic Systems</text>
+</svg>

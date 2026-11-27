@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Academic Journey and Capability Architecture">
+  <defs>
+    <linearGradient id="edubg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1220"/>
+      <stop offset="100%" stop-color="#111D33"/>
+    </linearGradient>
+    <linearGradient id="pathgrad-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8CC8FF" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#8CC8FF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#C4B5FD" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="22" fill="url(#edubg-dark)" stroke="#8CB4EC" stroke-opacity="0.22" stroke-width="1.2"/>
+
+  <!-- Left: Trajectory Timeline -->
+  <path d="M44 102 H520" stroke="url(#pathgrad-dark)" stroke-width="2" stroke-dasharray="5 5"/>
+  <circle cx="44" cy="102" r="6" fill="#8CC8FF"/>
+  <circle cx="300" cy="102" r="7" fill="#34D399"/>
+  <circle cx="520" cy="102" r="5" fill="#C4B5FD"/>
+
+  <!-- Milestone 1 -->
+  <rect x="28" y="24" width="252" height="106" rx="16" fill="#14223B" fill-opacity="0.88" stroke="#8CB4EC" stroke-opacity="0.22"/>
+  <text x="46" y="49" fill="#8CC8FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">UNDERGRADUATE · COMPLETED</text>
+  <text x="46" y="75" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">B.C.A.</text>
+  <text x="46" y="96" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Bachelor of Computer Applications</text>
+  <text x="46" y="115" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">Algorithms · DBMS · OOP · Web</text>
+
+  <!-- Milestone 2 -->
+  <rect x="296" y="24" width="264" height="106" rx="16" fill="#14223B" fill-opacity="0.94" stroke="#34D399" stroke-opacity="0.45"/>
+  <text x="314" y="49" fill="#34D399" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">POSTGRADUATE · IN PROGRESS</text>
+  <text x="314" y="75" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">M.Sc. Big Data Analysis</text>
+  <text x="314" y="96" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">St. Xavier's College, Ahmedabad</text>
+  <text x="314" y="115" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">ML · Statistical Inference · Deep Learning</text>
+
+  <!-- Lower Left: Research & Curriculum Study -->
+  <rect x="28" y="148" width="532" height="136" rx="16" fill="#14223B" fill-opacity="0.82" stroke="#C4B5FD" stroke-opacity="0.28"/>
+  <text x="46" y="174" fill="#C4B5FD" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">ACADEMIC STUDY &amp; CURRICULUM FOUNDATIONS</text>
+  <text x="46" y="196" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Coursework concepts &amp; theory studied alongside applied builds (distinct from shipped repos):</text>
+
+  <rect x="46" y="211" width="128" height="27" rx="8" fill="#231E42"/><text x="110" y="229" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">CNN · RNN · LSTM</text>
+  <rect x="184" y="211" width="152" height="27" rx="8" fill="#231E42"/><text x="260" y="229" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">GRU &amp; Transformers</text>
+  <rect x="346" y="211" width="194" height="27" rx="8" fill="#231E42"/><text x="443" y="229" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Attention Mechanisms</text>
+  <rect x="46" y="246" width="174" height="27" rx="8" fill="#231E42"/><text x="133" y="264" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Reinforcement Learning</text>
+  <rect x="230" y="246" width="180" height="27" rx="8" fill="#231E42"/><text x="320" y="264" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Econometrics &amp; Time Series</text>
+  <rect x="420" y="246" width="120" height="27" rx="8" fill="#231E42"/><text x="480" y="264" text-anchor="middle" fill="#C4B5FD" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Power BI (2025)</text>
+
+  <!-- Right Panel: Verified Project-Applied Engineering Matrix -->
+  <rect x="582" y="24" width="590" height="260" rx="18" fill="#14223B" fill-opacity="0.90" stroke="#8CB4EC" stroke-opacity="0.22"/>
+  <text x="606" y="52" fill="#8CC8FF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">PROJECT-PROVEN SYSTEMS STACK</text>
+  <text x="606" y="75" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700">Verified Technologies Applied in Public Repositories</text>
+
+  <text x="606" y="108" fill="#94A3B8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">DATA &amp; ML MODELING</text>
+  <rect x="606" y="118" width="84" height="27" rx="8" fill="#1B2E4E"/><text x="648" y="136" text-anchor="middle" fill="#8CC8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Python</text>
+  <rect x="698" y="118" width="90" height="27" rx="8" fill="#1B2E4E"/><text x="743" y="136" text-anchor="middle" fill="#8CC8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">PyTorch</text>
+  <rect x="796" y="118" width="94" height="27" rx="8" fill="#1B2E4E"/><text x="843" y="136" text-anchor="middle" fill="#8CC8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">XGBoost</text>
+  <rect x="898" y="118" width="114" height="27" rx="8" fill="#1B2E4E"/><text x="955" y="136" text-anchor="middle" fill="#8CC8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Scikit-Learn</text>
+  <rect x="1020" y="118" width="128" height="27" rx="8" fill="#1B2E4E"/><text x="1084" y="136" text-anchor="middle" fill="#8CC8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Pandas · SciPy</text>
+
+  <text x="606" y="172" fill="#94A3B8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">ANALYTICS &amp; GEOSPATIAL</text>
+  <rect x="606" y="182" width="124" height="27" rx="8" fill="#1B2E4E"/><text x="668" y="200" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">GeoPandas · GEE</text>
+  <rect x="738" y="182" width="134" height="27" rx="8" fill="#1B2E4E"/><text x="805" y="200" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Leaflet · Chart.js</text>
+  <rect x="880" y="182" width="142" height="27" rx="8" fill="#1B2E4E"/><text x="951" y="200" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">K-Means · LDA</text>
+  <rect x="1030" y="182" width="118" height="27" rx="8" fill="#1B2E4E"/><text x="1089" y="200" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">ANOVA · Moran's I</text>
+
+  <text x="606" y="236" fill="#94A3B8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11">ENGINEERING &amp; WEB SYSTEMS</text>
+  <rect x="606" y="246" width="106" height="27" rx="8" fill="#1B2E4E"/><text x="659" y="264" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">TypeScript</text>
+  <rect x="720" y="246" width="118" height="27" rx="8" fill="#1B2E4E"/><text x="779" y="264" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">React · Vite</text>
+  <rect x="846" y="246" width="146" height="27" rx="8" fill="#1B2E4E"/><text x="919" y="264" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Tailwind · shadcn/ui</text>
+  <rect x="1000" y="246" width="148" height="27" rx="8" fill="#1B2E4E"/><text x="1074" y="264" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">PostgreSQL · Supabase</text>
+</svg>

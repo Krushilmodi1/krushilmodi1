@@ -1,335 +1,266 @@
 <div align="center">
 
-<a href="#featured-projects">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/branding/hero-light.svg" />
-    <img src="assets/branding/hero-dark.svg" alt="Krushil Modi — Turning data into intelligence. Turning ideas into software." width="100%" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/kmos-hero-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero/kmos-hero-light.png" />
+  <img src="./assets/hero/kmos-hero-dark.png" alt="KM OS — Krushil Modi · Data Science, AI &amp; ML, Software Engineering" width="100%" />
+</picture>
 
-<br />
-<br />
+<br /><br />
 
-<p>
-  <a href="https://krushilmodi.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore My Portfolio" />
-  </a>
-  <a href="https://docs.google.com/document/d/1ngGxkqG3lVIJSdmdA-Il-TCNrzacTAon/export?format=pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Download%20Resume-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=78D4FF" alt="Download Resume PDF" />
-  </a>
-  <a href="https://www.linkedin.com/in/krushil-modi-803037268/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://leetcode.com/u/krushilModi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Profile" />
-  </a>
-  <a href="mailto:krushilmodi1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6554C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Krushil Modi" />
-  </a>
+<p align="center">
+<b>Workspace:</b>
+<a href="#km-os">Home</a> ·
+<a href="#data-studio">Data&nbsp;Studio</a> ·
+<a href="#intelligence-lab">Intelligence&nbsp;Lab</a> ·
+<a href="#dev-workspace">Dev&nbsp;Workspace</a> ·
+<a href="#academic-journey">Academic&nbsp;Journey</a> ·
+<a href="#activity-center">Activity&nbsp;Center</a> ·
+<a href="#connect">Connect</a>
 </p>
 
-<p>
-  <a href="#about">About</a> &bull;
-  <a href="#core-domains">Core Domains</a> &bull;
-  <a href="#featured-projects">Featured Projects</a> &bull;
-  <a href="#technology-ecosystem">Tech Ecosystem</a> &bull;
-  <a href="#academic-journey">Education</a> &bull;
-  <a href="#github-and-leetcode-activity">Analytics</a> &bull;
-  <a href="#connect">Contact</a>
+<p align="center">
+<b>Direct Links:</b>
+<a href="https://krushilmodi.netlify.app">Portfolio&nbsp;↗</a> ·
+<a href="https://docs.google.com/document/d/1ngGxkqG3lVIJSdmdA-Il-TCNrzacTAon/export?format=pdf">Resume&nbsp;(PDF)&nbsp;↗</a> ·
+<a href="https://www.linkedin.com/in/krushil-modi-803037268/">LinkedIn&nbsp;↗</a> ·
+<a href="https://leetcode.com/u/krushilModi/">LeetCode&nbsp;@krushilModi&nbsp;↗</a>
 </p>
 
 </div>
 
 ---
 
-## About
+<a id="km-os"></a>
 
-I'm a postgraduate student pursuing an **M.Sc. in Big Data Analysis** at **St. Xavier's College, Ahmedabad** (`2025–2027`), building on a **Bachelor of Computer Applications (BCA)** from **Indus University, Ahmedabad** (`8.86 / 10` CGPA).
-
-My academic work and personal projects sit at the intersection of **Data Science**, **AI & Machine Learning**, and **Software Engineering**—turning raw behavioral, financial, and spatial datasets into statistical models, predictive pipelines, and full-stack web interfaces.
-
-- **Target Opportunity Interests:** Data Analyst, Junior AI / ML Engineer, Data Science, Business Intelligence, and Full-Stack / Backend Software Developer roles.
-- **Current Exploration:** Physics-informed spatial modeling, time series forecasting, econometrics, deep learning architectures, and Business Intelligence dashboards.
-- **Beyond Code:** Outside technical problem-solving, I explore creative storytelling through original music and songwriting.
+> **KM OS** is a personal digital workspace presenting the analytical, machine learning, and software engineering work of **Krushil Modi** — **M.Sc. Big Data Analysis** student at **St. Xavier's College, Ahmedabad** (`B.C.A.` graduate). Built around calm clarity and verified evidence: every chart, live interface capture, and metric below comes directly from public repositories and reproducible runs.
 
 ---
 
-## Core Domains
-
+<a id="data-studio"></a>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sections/identity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/sections/identity-light.svg" />
-    <img src="assets/sections/identity-dark.svg" alt="Core Pillars: Data Science & Analytics, AI & Machine Learning, Software Engineering" width="100%" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/modules/data-studio-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/modules/data-studio-light.svg" />
+  <img src="./assets/modules/data-studio-dark.svg" alt="Module 01 — Data Studio" width="100%" />
+</picture>
 </div>
 
----
+### 01 · Flagship Research — Ahmedabad Urban Heat Mitigation &amp; Thermal PINN
 
-## Featured Projects
+**Repository:** [`Krushilmodi1/urban_heat_mitigation`](https://github.com/Krushilmodi1/urban_heat_mitigation) · `Python` · `PyTorch` · `GeoPandas` · `Leaflet` · `Chart.js`
 
-Selected personal repositories verified directly against source code, notebooks, and live deployments.
+A 1 km × 1 km spatial decision-support system covering **1,661 grid cells (1,570 km²)** across Ahmedabad, integrating calibrated daytime Land Surface Temperature (`LST`, baseline `32.08 °C`) with building footprint proxies (`4,777` footprints) and a PyTorch **Physics-Informed Neural Network (`PINN`)** regularized by a simplified 2D thermal PDE (`λ_pde = 0.1`, reducing PDE residual MSE by **22.2%** from `0.962` to `0.748`).
 
-### 1. AI-Powered UPI Cyber Fraud Detection System (`upi-fraud-detection`)
+<div align="center">
+  <img src="./assets/projects/uhm-lst-building-density.png" alt="Ahmedabad 1000m Land Surface Temperature vs Building Footprint Density (2025)" width="96%" />
+</div>
 
-> Full-stack fraud risk analysis platform pairing an XGBoost & Isolation Forest ML pipeline with a REST API microservice and React analytics dashboard.
-
-<table>
+<table width="100%">
   <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Krushilmodi1/upi-fraud-detection">
-        <img src="assets/projects/upi-roc-curves.png" alt="ROC Curves comparing Logistic Regression, Decision Tree, Random Forest, and XGBoost on UPI FraudGuard" width="100%" />
-      </a>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/uhm-dashboard-overview.png" alt="Ahmedabad Urban Heat Mitigation Research Dashboard Overview" width="100%" />
+      <p align="center"><sub><b>Research Decision Dashboard</b> · Domain KPIs (<code>1,661</code> cells, <code>32.08 °C</code> baseline LST, <code>-0.88 °C</code> peak modeled surface cooling ΔLST, <code>0.396 °C</code> RMSE).</sub></p>
     </td>
-    <td width="52%" valign="top">
-      <ul>
-        <li><strong>Problem:</strong> Identifying suspicious Indian UPI transactions in imbalanced payment streams while giving users a guided reporting flow.</li>
-        <li><strong>Approach:</strong> Evaluated four supervised classifiers alongside Isolation Forest anomaly scoring across <code>26,393</code> transaction records in Jupyter Notebook.</li>
-        <li><strong>Implementation:</strong> Served predictions through a Python FastAPI service integrated with Node.js / Express, MongoDB Atlas, JWT + bcryptjs auth, Recharts analytics, complaint workflows, and a multilingual chatbot (English, Hindi, Gujarati).</li>
-        <li><strong>Verified Outcome:</strong> XGBoost achieved <code>97.04%</code> accuracy, <code>0.9591</code> ROC-AUC, and <code>91.02%</code> F1 score in notebook evaluation, deployed live for interactive inspection.</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>XGBoost</code> <code>FastAPI</code> <code>React 19</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind CSS</code>
-      </p>
-      <p>
-        <a href="https://github.com/Krushilmodi1/upi-fraud-detection"><strong>Repository</strong></a> &nbsp;|&nbsp;
-        <a href="https://upi-frauddetection.netlify.app/"><strong>Live Demo</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 2. Ahmedabad Urban Heat Mitigation & Cooling Simulation (`urban_heat_mitigation`)
-
-> Spatial climate analytics pipeline combining satellite thermal indices, building footprints, Physics-Informed Neural Networks, and cooling scenario simulations for Ahmedabad.
-
-<table>
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Krushilmodi1/urban_heat_mitigation">
-        <img src="assets/projects/urban-heat-pinn.png" alt="Ahmedabad Spatial Holdout Block Validation Grid across UTM 43N" width="100%" />
-      </a>
-    </td>
-    <td width="52%" valign="top">
-      <ul>
-        <li><strong>Problem:</strong> Studying urban heat island distribution across Ahmedabad municipal limits and a 10 km outward buffer using repeatable spatial validation.</li>
-        <li><strong>Approach:</strong> Fused Landsat 8 &amp; 9 Land Surface Temperature (LST), NDVI, and NDBI observations with chunked Open Buildings polygons on a 1 km UTM 43N grid (<code>EPSG:32643</code>).</li>
-        <li><strong>Implementation:</strong> Built a staged Python pipeline (<code>boundary</code> &rarr; <code>extract</code> &rarr; <code>buildings</code> &rarr; <code>grid</code> &rarr; <code>plots</code> &rarr; <code>pinn</code> &rarr; <code>simulation</code>) with spatial block holdout testing (2,542 train / 780 test cells), 2D thermal diffusion-advection PINN training, cooling scenarios (cool roofs, green roofs, urban trees), and an offline unit test suite.</li>
-        <li><strong>Verified Deliverable:</strong> End-to-end reproducible geospatial framework with automated cloud-masking, missing-month handling, and HTML/PNG diagnostic outputs.</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>Geospatial Grid</code> <code>Earth Engine</code> <code>PINNs</code> <code>NumPy</code> <code>Pandas</code> <code>Unittest</code>
-      </p>
-      <p>
-        <a href="https://github.com/Krushilmodi1/urban_heat_mitigation"><strong>Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 3. Impact of Short-Form Video Usage on Academic Performance (`Impact-of-shortform_video`)
-
-> Quantitative statistical and machine learning investigation examining behavioral short-form video patterns and student GPA outcomes.
-
-<table>
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Krushilmodi1/Impact-of-shortform_video">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/projects/shortform-cover-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="assets/projects/shortform-cover-light.svg" />
-          <img src="assets/projects/shortform-cover-dark.svg" alt="Short-Form Video Usage and Academic Performance Study Summary" width="100%" />
-        </picture>
-      </a>
-    </td>
-    <td width="52%" valign="top">
-      <ul>
-        <li><strong>Problem:</strong> Evaluating whether daily short-form video habits, cognitive load, and sleep self-regulation correlate with differences in university GPA.</li>
-        <li><strong>Approach:</strong> Reverse-coded positive psychometric survey items across <code>207</code> observations (<code>29</code> features), engineered five behavioral section means, and applied K-Means clustering (<code>k=3</code> via Elbow Method) with LDA projection.</li>
-        <li><strong>Implementation:</strong> Ran One-Way &amp; Two-Way ANOVA in Python alongside Linear Regression, SVR, Random Forest Regressor, Logistic Regression, and Random Forest Classifier tuned with 5-fold <code>GridSearchCV</code>.</li>
-        <li><strong>Verified Findings (Observational):</strong> Statistically significant GPA variance across behavioral clusters (<code>F = 500.23, p &lt; 0.001</code>) and usage levels (<code>F = 11.75, p &lt; 0.001</code>); Random Forest achieved <code>R&sup2; = 0.7942</code> (regression) and <code>69.05%</code> (GPA-band classification).</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>SciPy ANOVA</code> <code>K-Means</code> <code>Random Forest</code> <code>Jupyter</code>
-      </p>
-      <p>
-        <a href="https://github.com/Krushilmodi1/Impact-of-shortform_video"><strong>Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 4. Nestory — Real Estate Marketplace (`real-estate-marketplace`)
-
-> TypeScript and React property discovery application featuring Google Maps integration, authenticated buyer/agent workflows, favorites, and payment history UI.
-
-<table>
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://github.com/Krushilmodi1/real-estate-marketplace">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/projects/real-estate-cover-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="assets/projects/real-estate-cover-light.svg" />
-          <img src="assets/projects/real-estate-cover-dark.svg" alt="Nestory Real Estate Marketplace Architecture" width="100%" />
-        </picture>
-      </a>
-    </td>
-    <td width="52%" valign="top">
-      <ul>
-        <li><strong>Problem:</strong> Structuring multi-view property search, media galleries, agent inquiries, and account state cleanly in a typed frontend.</li>
-        <li><strong>Approach:</strong> Built modular TypeScript views using React 18, shadcn/ui (Radix primitives), TanStack React Query, React Hook Form, and Zod validation backed by Supabase auth and data services.</li>
-        <li><strong>Implementation:</strong> Includes <code>SearchFilters</code>, <code>PropertyDetail</code> galleries, Google Maps views (<code>@react-google-maps/api</code>), <code>AddProperty</code> forms, favorites tracking, and <code>PaymentModal</code> / <code>AdminPayments</code> UI components.</li>
-        <li><strong>Verified Deliverable:</strong> Complete typed multi-page React application repository.</li>
-      </ul>
-      <p>
-        <code>TypeScript</code> <code>React 18</code> <code>Vite</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Supabase</code> <code>Google Maps API</code>
-      </p>
-      <p>
-        <a href="https://github.com/Krushilmodi1/real-estate-marketplace"><strong>Repository</strong></a>
-      </p>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/uhm-hotspot-explorer.png" alt="Ahmedabad Interactive 1km Grid UHVI Hazard Index Spatial Explorer" width="100%" />
+      <p align="center"><sub><b>Interactive Spatial Explorer</b> · Multi-Criteria UHVI prioritization layer across Ahmedabad &amp; 10 km peripheral buffer.</sub></p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>Additional Personal Repositories &amp; Learning Index</strong></summary>
-<br />
+<summary><b>Spatial Holdout Benchmark &amp; Scientific Notes</b> (8 km contiguous block validation, n<sub>test</sub> = 780)</summary>
 
-| Repository | Purpose &amp; Verified Stack | Link |
-| :--- | :--- | :--- |
-| **Personal Developer Portfolio** | React, Vite, Tailwind CSS, responsive sections, Web3Forms contact &amp; JSON-LD SEO metadata | [portfolio](https://github.com/Krushilmodi1/portfolio) &middot; [Live Site](https://krushilmodi.netlify.app) |
-| **CodeAlpha ML &amp; Data Tasks** | Python exercises covering Iris KNN classification, Unemployment in India EDA, and Car Price Linear Regression | [CodeAlpha_tasks](https://github.com/Krushilmodi1/CodeAlpha_tasks) |
-
-<sub>Note: Collaborator or friend-owned repositories visible on GitHub (such as <code>Finance-hub</code>) belong to their respective authors and are not presented here as personal projects.</sub>
+- Evaluated strictly on **contiguous 8 km spatial blocks** to eliminate spatial adjacency leakage (`Moran's I = -0.006`, `p = 0.44` indicating near-zero residual spatial autocorrelation at evaluation scale).
+- **Holdout Benchmark (`RMSE` / `R²`)**: **Ridge Regression** (`0.396 °C` / `0.056 R²`) outperformed **Random Forest** (`0.401 °C` / `0.034`), **Deep MLP (No PDE)** (`0.399 °C` / `0.041`), and **Urban Heat PINN** (`0.405 °C` / `0.014`), where narrow synthetic target variance (`σ = 0.407 °C`) and sparse building coverage constrained raw R² while physics regularization enforced smoother spatial thermal gradients.
+- All prototype proxy surfaces and cooling projections (`mean ΔLST = -0.40 °C`, canopy `ΔT_air ≈ 0.32 × ΔLST`) are explicitly documented as **modeled sensitivity outputs**, not physical in-situ temperature measurements.
 
 </details>
 
 ---
 
-## Technology Ecosystem
+### 02 · Behavioral &amp; Statistical Analytics — Short-Form Video Impact Study
 
-Technologies are grouped by practical context—distinguishing tools demonstrated inside public codebases from academic coursework and active exploration (no arbitrary skill percentages).
+**Repository:** [`Krushilmodi1/Impact-of-shortform_video`](https://github.com/Krushilmodi1/Impact-of-shortform_video) · `Jupyter Notebook` · `SciPy` · `Scikit-Learn` · `K-Means` · `LDA`
 
-| Domain | Demonstrated in Public Repositories | Academic Coursework &amp; Active Learning |
-| :--- | :--- | :--- |
-| **Languages** | `Python`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `SQL` | `Java`, `PHP`, `C`, `C++` (foundational coursework &amp; certifications) |
-| **Data Science &amp; ML** | `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `SciPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `PINNs` | Econometrics, Time Series Forecasting, Deep Learning (`CNN`/`RNN`/`LSTM`), NLP, Computer Vision, Reinforcement Learning |
-| **Business Intelligence** | Interactive visual reporting &amp; analytics workflows | **Microsoft Power BI** (completed two-day workshop in April 2025 covering dashboards, data transformation &amp; BI storytelling) |
-| **Backend &amp; APIs** | `Node.js`, `Express.js`, `FastAPI`, `REST APIs`, `JWT`, `Supabase Auth` | `Django`, relational schema modeling &amp; authentication patterns |
-| **Frontend &amp; Databases** | `React`, `Vite`, `Tailwind CSS`, `shadcn/ui`, `Recharts`, `MongoDB` | `MySQL`, responsive design &amp; UI architecture |
-| **Tools &amp; Platforms** | `Git`, `GitHub`, `VS Code`, `Netlify`, `Postman` | `Streamlit`, `Render`, spatial &amp; statistical notebooks |
+Multivariate statistical and machine learning investigation across **207 student survey responses (`29` features)** analyzing how short-form video consumption habits, attention fragmentation, and cognitive load correlate with academic `GPA`.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/shortform-corr-heatmap.png" alt="Correlation Matrix — Section Means vs GPA" width="100%" />
+      <p align="center"><sub><b>Pearson Correlation Matrix</b> · Academic Impact (<code>r = -0.72</code>), Cognitive Load (<code>-0.68</code>), and Attention Fragmentation (<code>-0.67</code>) strongly invert with GPA.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/shortform-lda-clusters.png" alt="Behavioral Cluster Visualization using LDA" width="100%" />
+      <p align="center"><sub><b>Cluster Visualization (K-Means + LDA)</b> · Three distinct student behavioral engagement personas projected cleanly across discriminant axes.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Inspect Regression Model Comparison</b> (Random Forest R² = 0.7942, RMSE = 0.4348)</summary>
+
+<br />
+<div align="center">
+  <img src="./assets/projects/shortform-regression-comparison.png" alt="Regression Model Comparison — R2 Score and RMSE" width="88%" />
+</div>
+
+- Benchmarked **Random Forest Regressor** (`R² = 0.7942`, `RMSE = 0.4348`) against **Linear Regression** (`0.7841` / `0.4453`) and **SVR** (`0.7529` / `0.4763`).
+
+</details>
 
 ---
 
-## Academic Journey
-
+<a id="intelligence-lab"></a>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sections/timeline-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/sections/timeline-light.svg" />
-    <img src="assets/sections/timeline-dark.svg" alt="Academic Timeline: Indus University BCA 2022-2025, Power BI Course April 2025, St. Xavier's College M.Sc. Big Data Analysis 2025-2027" width="100%" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/modules/intelligence-lab-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/modules/intelligence-lab-light.svg" />
+  <img src="./assets/modules/intelligence-lab-dark.svg" alt="Module 02 — Intelligence Lab" width="100%" />
+</picture>
+</div>
+
+### AI-Powered UPI Cyber Fraud Detection (`FraudGuard`)
+
+**Repository:** [`Krushilmodi1/upi-fraud-detection`](https://github.com/Krushilmodi1/upi-fraud-detection) · **Live App:** [`upi-frauddetection.netlify.app ↗`](https://upi-frauddetection.netlify.app/) · `XGBoost` · `Random Forest` · `React` · `Python API`
+
+End-to-end financial risk pipeline analyzing **26,393 UPI transactions**, comparing classical and gradient-boosted ensembles paired with a real-time scoring web application and alert guidance flow.
+
+<table width="100%">
+  <tr>
+    <td width="52%" valign="top">
+      <img src="./assets/projects/upi-fraudguard-ui.png" alt="Live UPI FraudGuard Web Application Interface" width="100%" />
+      <p align="center"><sub><b>Live Deployed Interface</b> · Real-time risk scoring UX with instant probability output &amp; 1930 cyber-helpline recovery flow.</sub></p>
+    </td>
+    <td width="48%" valign="top">
+      <img src="./assets/projects/upi-roc-curves.png" alt="ROC Curve Comparison Across Fraud Detection Models" width="100%" />
+      <p align="center"><sub><b>Model ROC-AUC Comparison</b> · XGBoost (<code>0.9591</code> AUC), Random Forest (<code>0.9570</code> AUC, <code>0.9129</code> F1), Logistic Regression (<code>0.9491</code>), Decision Tree (<code>0.9438</code>).</sub></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Inspect Top 20 Engineered Fraud Signals</b> (XGBoost Feature Importance)</summary>
+
+<br />
+<div align="center">
+  <img src="./assets/projects/upi-feature-importance.png" alt="Top 20 Feature Importances — XGBoost UPI Fraud Model" width="88%" />
+</div>
+
+- Primary predictive signals: `amount_zscore`, `authentication_attempt_count`, `transaction_type`, `pin_entry_method`, `session_duration`, and user baseline deviation (`amount_vs_user_mean`).
+
+</details>
+
+---
+
+<a id="dev-workspace"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/modules/dev-workspace-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/modules/dev-workspace-light.svg" />
+  <img src="./assets/modules/dev-workspace-dark.svg" alt="Module 03 — Dev Workspace" width="100%" />
+</picture>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/portfolio-live-ui.png" alt="Krushil Modi Personal Portfolio Web App" width="100%" />
+      <p align="center"><sub><b>Live Developer Portfolio</b> · <a href="https://krushilmodi.netlify.app/">krushilmodi.netlify.app&nbsp;↗</a></sub></p>
+    </td>
+    <td width="50%" valign="middle">
+      <h4>Full-Stack &amp; Engineering Builds</h4>
+      <p><b><a href="https://github.com/Krushilmodi1/real-estate-marketplace">Nestory Real Estate Marketplace</a></b> · <code>TypeScript</code> · <code>React 18</code> · <code>Vite</code> · <code>Tailwind</code> · <code>shadcn/ui</code> · <code>Supabase</code> · <code>Google Maps</code><br />
+      <sub>Property discovery platform featuring interactive map search and Recharts analytics (<code>369.9 KB</code> typed codebase in <code>nestory-marketplace-main</code>).</sub></p>
+      <p><b><a href="https://github.com/Krushilmodi1/portfolio">Developer Portfolio</a></b> · <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code> · <code>Netlify</code><br />
+      <sub>Live personal engineering showcase highlighting verified research builds, credentials, and skill modules.</sub></p>
+      <p><b><a href="https://github.com/Krushilmodi1/CodeAlpha_tasks">CodeAlpha Python Tasks</a></b> · <code>Python</code><br />
+      <sub>Structured algorithmic scripting utilities and CLI exercises.</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="academic-journey"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/modules/academic-journey-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/modules/academic-journey-light.svg" />
+  <img src="./assets/modules/academic-journey-dark.svg" alt="Module 04 — Academic Journey" width="100%" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/education/academic-journey-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/education/academic-journey-light.svg" />
+  <img src="./assets/education/academic-journey-dark.svg" alt="Academic Progression and Capability Architecture" width="100%" />
+</picture>
 </div>
 
 <details>
-<summary><strong>Academic Knowledge Focus &amp; Verified Certificates</strong></summary>
-<br />
+<summary><b>Verified Certifications &amp; Workshops</b> (Kaggle, Credly, Udemy &amp; Power BI)</summary>
 
-**Current Academic &amp; Research Study Areas (M.Sc. Big Data Analysis):**
-- **Statistical Intelligence:** Hypothesis testing, ANOVA, multiple regression, econometrics, time series analysis, and forecasting.
-- **Machine Intelligence:** Supervised/unsupervised learning, anomaly detection, neural networks, NLP, computer vision, and reinforcement learning concepts.
-- **Data Intelligence &amp; BI:** Big data preprocessing, spatial grid aggregation, visual storytelling, and Business Intelligence reporting.
-
-**Verified Public Certificates (Linked from Portfolio):**
-- [Intro to Machine Learning — Kaggle](https://www.kaggle.com/learn/certification/krushilmodi19/intro-to-machine-learning)
-- [Feature Engineering — Kaggle](https://www.kaggle.com/learn/certification/krushilmodi19/feature-engineering)
-- [Data Cleaning — Kaggle](https://www.kaggle.com/learn/certification/krushilmodi19/data-cleaning)
-- [Credly Verified Credential](https://www.credly.com/badges/3d8cc920-458c-4077-9ea9-cd39209c548b/public_url)
-- [C and C++ Programming — Udemy](https://www.udemy.com/certificate/UC-31321bd5-c7ba-4e8b-9ac7-d94a4c3d2401/) &middot; [UML Complete Guide — Udemy](https://www.udemy.com/certificate/UC-f787606c-c5aa-4cb3-8b82-b598557c5fc6/)
-- Two-Day **Microsoft Power BI** Course (April 2025 — workshop completion)
+- **Kaggle** · [Intro to Machine Learning](https://www.kaggle.com/learn/certification/krushilmodi19/intro-to-machine-learning) · [Feature Engineering](https://www.kaggle.com/learn/certification/krushilmodi19/feature-engineering) · [Data Cleaning](https://www.kaggle.com/learn/certification/krushilmodi19/data-cleaning)
+- **Credly** · [Verified Digital Badge](https://www.credly.com/badges/3d8cc920-458c-4077-9ea9-cd39209c548b/linked_in_profile)
+- **Udemy** · [UML — Complete Guide](https://www.udemy.com/certificate/UC-f787606c-c355-4313-96a0-a04b4a8f88f3/) · [C and C++ Programming](https://www.udemy.com/certificate/UC-31321bd5-1f96-409b-beea-b653c3fb3640/)
+- **Power BI Workshop** · Data Modeling &amp; Executive BI Reporting (`Apr 2025`)
 
 </details>
 
 ---
 
-## GitHub and LeetCode Activity
-
-Generated cleanly from verified public GitHub (`@Krushilmodi1`) and LeetCode (`@krushilModi`) profiles so light and dark themes render reliably without broken external widgets.
-
+<a id="activity-center"></a>
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/analytics/github-overview-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="assets/analytics/github-overview-light.svg" />
-          <img src="assets/analytics/github-overview-dark.svg" alt="Verified GitHub and LeetCode Profile Telemetry" width="100%" />
-        </picture>
-      </td>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/analytics/language-distribution-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="assets/analytics/language-distribution-light.svg" />
-          <img src="assets/analytics/language-distribution-dark.svg" alt="Personal Repository Language Byte Share" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/modules/activity-center-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/modules/activity-center-light.svg" />
+  <img src="./assets/modules/activity-center-dark.svg" alt="Module 05 — Activity Center" width="100%" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/github-activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/github-activity-light.svg" />
+  <img src="./assets/analytics/github-activity-dark.svg" alt="GitHub Activity Center and Real Contribution Heatmap" width="100%" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/language-distribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/language-distribution-light.svg" />
+  <img src="./assets/analytics/language-distribution-dark.svg" alt="Personal Codebase Language Distribution Across Original Projects" width="100%" />
+</picture>
 </div>
-
-<sub>Language percentages represent raw byte counts across Krushil's own public code repositories (excluding forks and collaborator repos)—they reflect codebase composition rather than personal skill level.</sub>
-
-<details>
-<summary><strong>Live External GitHub Streak &amp; LeetCode Card</strong></summary>
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Krushilmodi1&amp;background=0B1322&amp;border=1E3354&amp;stroke=78D4FF&amp;ring=78D4FF&amp;fire=A99BFF&amp;currStreakNum=EDF4FF&amp;sideNums=EDF4FF&amp;currStreakLabel=78D4FF&amp;sideLabels=9CAECA&amp;dates=9CAECA" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Krushilmodi1&amp;background=FFFFFF&amp;border=D7E2F2&amp;stroke=2563EB&amp;ring=2563EB&amp;fire=6554C0&amp;currStreakNum=17243A&amp;sideNums=17243A&amp;currStreakLabel=2563EB&amp;sideLabels=52627A&amp;dates=52627A" />
-    <img src="https://streak-stats.demolab.com?user=Krushilmodi1&amp;background=0B1322&amp;border=1E3354&amp;ring=78D4FF&amp;fire=A99BFF&amp;currStreakNum=EDF4FF" alt="Krushilmodi1 GitHub Streak Stats" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/krushilModi?theme=dark&amp;font=Inter&amp;ext=contest" />
-    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/krushilModi?theme=light&amp;font=Inter&amp;ext=contest" />
-    <img src="https://leetcard.jacoblin.cool/krushilModi?theme=dark&amp;font=Inter&amp;ext=contest" alt="krushilModi LeetCode Stats Card" width="49%" />
-  </picture>
-</div>
-
-</details>
 
 ---
 
-## Connect
-
-Open to connecting on data science research, analytical engineering, software builds, and learning opportunities.
-
+<a id="connect"></a>
 <div align="center">
 
-| Channel | Destination |
-| :--- | :--- |
-| **Portfolio** | [krushilmodi.netlify.app](https://krushilmodi.netlify.app) |
-| **Resume / CV** | [Download Resume (PDF)](https://docs.google.com/document/d/1ngGxkqG3lVIJSdmdA-Il-TCNrzacTAon/export?format=pdf) |
-| **LinkedIn** | [linkedin.com/in/krushil-modi-803037268](https://www.linkedin.com/in/krushil-modi-803037268/) |
-| **Email** | [krushilmodi1234@gmail.com](mailto:krushilmodi1234@gmail.com) |
-| **GitHub** | [github.com/Krushilmodi1](https://github.com/Krushilmodi1) |
-| **LeetCode** | [leetcode.com/u/krushilModi](https://leetcode.com/u/krushilModi/) |
+### Connect &amp; Collaborate
 
-</div>
+Open to **Data Science, Machine Learning, Analytics, and Software Engineering** internships, research collaborations, and applied system builds.
+
+<p align="center">
+<a href="https://krushilmodi.netlify.app"><b>Portfolio</b></a> ·
+<a href="https://docs.google.com/document/d/1ngGxkqG3lVIJSdmdA-Il-TCNrzacTAon/export?format=pdf"><b>Download&nbsp;Resume&nbsp;(PDF)</b></a> ·
+<a href="https://www.linkedin.com/in/krushil-modi-803037268/"><b>LinkedIn</b></a> ·
+<a href="https://leetcode.com/u/krushilModi/"><b>LeetCode&nbsp;@krushilModi</b></a> ·
+<a href="mailto:krushilmodi1234@gmail.com"><code>krushilmodi1234@gmail.com</code></a>
+</p>
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/footer-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/branding/footer-light.svg" />
-    <img src="assets/branding/footer-dark.svg" alt="Curiosity drives learning. Engineering turns it into impact." width="100%" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/kmos-footer-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero/kmos-footer-light.png" />
+  <img src="./assets/hero/kmos-footer-dark.png" alt="KM OS — Exploring intelligence. Engineering possibilities." width="100%" />
+</picture>
+
 </div>

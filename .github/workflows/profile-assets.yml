@@ -1,36 +1,36 @@
-name: Refresh Profile Analytics SVGs
+name: Update KM OS Profile Telemetry
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: "15 6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-analytics:
+  update-telemetry:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout profile repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
-      - name: Generate dark and light analytics SVGs
+      - name: Refresh KM OS Activity & Language SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_stats_svg.py
 
-      - name: Commit updated analytics SVGs if changed
+      - name: Commit updated telemetry SVGs
         run: |
-          if [ -n "$(git status --porcelain assets/analytics/)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add assets/analytics/
-            git commit -m "chore: refresh generated GitHub analytics SVGs"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/analytics/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh KM OS profile telemetry"
             git push
           fi
