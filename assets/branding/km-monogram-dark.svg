@@ -1,0 +1,25 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KM monogram dark">
+  <defs>
+    <linearGradient id="kmBgD" x1="6" y1="4" x2="82" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#142137"/>
+      <stop offset="100%" stop-color="#0A1324"/>
+    </linearGradient>
+    <linearGradient id="kmRimD" x1="6" y1="4" x2="82" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.34"/>
+      <stop offset="50%" stop-color="#78D4FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#A99BFF" stop-opacity="0.16"/>
+    </linearGradient>
+    <linearGradient id="kmStrokeD" x1="20" y1="22" x2="68" y2="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#78D4FF"/>
+      <stop offset="100%" stop-color="#A99BFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="80" height="80" rx="22" fill="url(#kmBgD)" stroke="url(#kmRimD)" stroke-width="1.5"/>
+  <path d="M22 8H66" stroke="#FFFFFF" stroke-opacity="0.26" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Architectural K + connected M prism geometry -->
+  <path d="M24 25V63" stroke="#EDF4FF" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M39 25L25 44L39 63" stroke="url(#kmStrokeD)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 63V27L55 46L66 27V63" stroke="url(#kmStrokeD)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="55" cy="46" r="2.6" fill="#EDF4FF"/>
+  <circle cx="66" cy="27" r="2.6" fill="#78D4FF"/>
+</svg>

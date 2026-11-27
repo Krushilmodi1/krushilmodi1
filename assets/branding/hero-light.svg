@@ -1,0 +1,153 @@
+<svg width="1440" height="520" viewBox="0 0 1440 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Krushil Modi — Turning data into intelligence. Turning ideas into software.">
+  <defs>
+    <linearGradient id="hlBg" x1="0" y1="0" x2="1440" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F6F9FE"/>
+      <stop offset="52%" stop-color="#EDF3FB"/>
+      <stop offset="100%" stop-color="#E7EEF9"/>
+    </linearGradient>
+    <radialGradient id="hlGlowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(270 100) rotate(20) scale(600 320)">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.12"/>
+      <stop offset="65%" stop-color="#60A5FA" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#F5F8FC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hlGlowLavender" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1150 220) rotate(145) scale(500 340)">
+      <stop offset="0%" stop-color="#6554C0" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#2563EB" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#EDF3FB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hlGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" stroke="#17243A" stroke-opacity="0.045" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1" fill="#2563EB" fill-opacity="0.14"/>
+    </pattern>
+    <linearGradient id="hlBorder" x1="0" y1="0" x2="1440" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#6554C0" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#17243A" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="hlGlassCard" x1="850" y1="72" x2="1364" y2="412" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.90"/>
+      <stop offset="100%" stop-color="#F5F8FC" stop-opacity="0.78"/>
+    </linearGradient>
+    <linearGradient id="hlGlassRim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#6554C0" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="hlAccentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#6554C0"/>
+    </linearGradient>
+    <linearGradient id="hlAreaGrad" x1="1080" y1="180" x2="1080" y2="338" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="hlShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#17243A" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect x="2" y="2" width="1436" height="516" rx="28" fill="url(#hlBg)"/>
+  <rect x="2" y="2" width="1436" height="516" rx="28" fill="url(#hlGrid)"/>
+  <rect x="2" y="2" width="1436" height="516" rx="28" fill="url(#hlGlowBlue)"/>
+  <rect x="2" y="2" width="1436" height="516" rx="28" fill="url(#hlGlowLavender)"/>
+  <rect x="2.75" y="2.75" width="1434.5" height="514.5" rx="27.25" stroke="url(#hlBorder)" stroke-width="1.5"/>
+  <path d="M110 3.5H1330" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Subtle flowing data arcs -->
+  <path d="M-20 432C280 358 510 478 860 398C1110 340 1280 396 1460 350" stroke="#2563EB" stroke-opacity="0.12" stroke-width="1.5"/>
+  <path d="M-10 460C300 392 540 492 900 420C1150 370 1310 420 1460 385" stroke="#6554C0" stroke-opacity="0.10" stroke-width="1.2"/>
+
+  <!-- LEFT: KM Monogram, Academic Identity, Prominent Name, Tagline -->
+  <g transform="translate(76, 68)">
+    <g>
+      <rect x="0" y="0" width="66" height="66" rx="18" fill="#FFFFFF" stroke="#2563EB" stroke-opacity="0.22" stroke-width="1.4"/>
+      <path d="M18 20V46" stroke="#17243A" stroke-width="2.6" stroke-linecap="round"/>
+      <path d="M29 20L19 33L29 46" stroke="url(#hlAccentGrad)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M33 46V21L41.5 34.5L50 21V46" stroke="url(#hlAccentGrad)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="41.5" cy="34.5" r="2" fill="#17243A"/>
+      <circle cx="50" cy="21" r="2.2" fill="#2563EB"/>
+
+      <rect x="82" y="16" width="356" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.88" stroke="#2563EB" stroke-opacity="0.20"/>
+      <circle cx="100" cy="33" r="4" fill="#2563EB"/>
+      <text x="114" y="37" fill="#17243A" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" letter-spacing="0.8">M.SC. BIG DATA ANALYSIS · AHMEDABAD</text>
+    </g>
+
+    <text x="0" y="154" fill="#17243A" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="800" letter-spacing="-1.8">Krushil <tspan fill="url(#hlAccentGrad)">Modi</tspan></text>
+
+    <text x="0" y="206" fill="#23344D" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="500" letter-spacing="-0.2">Turning data into intelligence. Turning ideas into software.</text>
+    <text x="0" y="242" fill="#52627A" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15.5">Where analytical thinking meets software engineering — St. Xavier's College, Ahmedabad (2025–2027)</text>
+
+    <g transform="translate(0, 294)">
+      <rect x="0" y="0" width="214" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.92" stroke="#2563EB" stroke-opacity="0.24"/>
+      <circle cx="20" cy="19" r="4" fill="#2563EB"/>
+      <text x="34" y="24" fill="#17243A" font-family="'Inter', sans-serif" font-size="13" font-weight="600">Data Science &amp; Analytics</text>
+
+      <rect x="228" y="0" width="204" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.92" stroke="#6554C0" stroke-opacity="0.24"/>
+      <circle cx="248" cy="19" r="4" fill="#6554C0"/>
+      <text x="262" y="24" fill="#17243A" font-family="'Inter', sans-serif" font-size="13" font-weight="600">AI &amp; Machine Learning</text>
+
+      <rect x="446" y="0" width="206" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.92" stroke="#17243A" stroke-opacity="0.16"/>
+      <circle cx="466" cy="19" r="4" fill="#2563EB"/>
+      <text x="480" y="24" fill="#17243A" font-family="'Inter', sans-serif" font-size="13" font-weight="600">Software Engineering</text>
+    </g>
+  </g>
+
+  <!-- RIGHT: Frosted Glass Visual Canvas -->
+  <g filter="url(#hlShadow)">
+    <rect x="850" y="72" width="514" height="340" rx="24" fill="url(#hlGlassCard)" stroke="url(#hlGlassRim)" stroke-width="1.4"/>
+    <path d="M882 73.2H1332" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+
+    <text x="880" y="110" fill="#17243A" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="15.5" font-weight="700">INTELLIGENCE IN ENGINEERING</text>
+    <text x="880" y="131" fill="#52627A" font-family="'Inter', sans-serif" font-size="12">Statistical Models &#183; Neural Systems &#183; Full-Stack APIs</text>
+
+    <g stroke="#2563EB" stroke-opacity="0.28" stroke-width="1.3">
+      <line x1="896" y1="194" x2="964" y2="174"/>
+      <line x1="896" y1="194" x2="964" y2="230"/>
+      <line x1="896" y1="266" x2="964" y2="174"/>
+      <line x1="896" y1="266" x2="964" y2="230"/>
+      <line x1="896" y1="266" x2="964" y2="288"/>
+      <line x1="896" y1="330" x2="964" y2="230"/>
+      <line x1="896" y1="330" x2="964" y2="288"/>
+
+      <line x1="964" y1="174" x2="1032" y2="202" stroke="#6554C0" stroke-opacity="0.34"/>
+      <line x1="964" y1="230" x2="1032" y2="202" stroke="#6554C0" stroke-opacity="0.34"/>
+      <line x1="964" y1="230" x2="1032" y2="266" stroke="#6554C0" stroke-opacity="0.34"/>
+      <line x1="964" y1="288" x2="1032" y2="266" stroke="#6554C0" stroke-opacity="0.34"/>
+    </g>
+    <g>
+      <circle cx="896" cy="194" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+      <circle cx="896" cy="266" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+      <circle cx="896" cy="330" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+      <circle cx="964" cy="174" r="5.5" fill="#F5F8FC" stroke="#6554C0" stroke-width="2"/>
+      <circle cx="964" cy="230" r="5.5" fill="#F5F8FC" stroke="#2563EB" stroke-width="2"/>
+      <circle cx="964" cy="288" r="5.5" fill="#F5F8FC" stroke="#6554C0" stroke-width="2"/>
+      <circle cx="1032" cy="202" r="6" fill="#2563EB"/>
+      <circle cx="1032" cy="266" r="6" fill="#6554C0"/>
+    </g>
+
+    <g>
+      <line x1="1074" y1="186" x2="1334" y2="186" stroke="#17243A" stroke-opacity="0.08" stroke-dasharray="4 4"/>
+      <line x1="1074" y1="236" x2="1334" y2="236" stroke="#17243A" stroke-opacity="0.08" stroke-dasharray="4 4"/>
+      <line x1="1074" y1="286" x2="1334" y2="286" stroke="#17243A" stroke-opacity="0.08" stroke-dasharray="4 4"/>
+      <line x1="1074" y1="336" x2="1334" y2="336" stroke="#17243A" stroke-opacity="0.14"/>
+
+      <path d="M1074 316C1112 312 1132 276 1168 282C1206 288 1228 228 1266 232C1296 236 1314 198 1334 182V336H1074V316Z" fill="url(#hlAreaGrad)"/>
+      <path d="M1074 316C1112 312 1132 276 1168 282C1206 288 1228 228 1266 232C1296 236 1314 198 1334 182" stroke="url(#hlAccentGrad)" stroke-width="2.8" stroke-linecap="round"/>
+      <circle cx="1168" cy="282" r="4" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+      <circle cx="1266" cy="232" r="4" fill="#FFFFFF" stroke="#6554C0" stroke-width="2"/>
+      <circle cx="1334" cy="182" r="5" fill="#2563EB" stroke="#FFFFFF" stroke-width="1.8"/>
+    </g>
+
+    <rect x="880" y="360" width="454" height="32" rx="16" fill="#EAF0FA" stroke="#2563EB" stroke-opacity="0.14"/>
+    <text x="1107" y="380" text-anchor="middle" fill="#52627A" font-family="'Inter', sans-serif" font-size="11.5" font-weight="600">Python &#183; Scikit-learn &#183; XGBoost &#183; SQL &#183; Power BI &#183; React &#183; Node.js</text>
+  </g>
+
+  <g transform="translate(1154, 34)" filter="url(#hlShadow)">
+    <rect x="0" y="0" width="234" height="60" rx="18" fill="#FFFFFF" stroke="#2563EB" stroke-opacity="0.22" stroke-width="1.3"/>
+    <circle cx="28" cy="30" r="14" fill="#2563EB" fill-opacity="0.10" stroke="#2563EB" stroke-opacity="0.35"/>
+    <path d="M23 30L27 34L34 26" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="54" y="27" fill="#17243A" font-family="'Inter', sans-serif" font-size="12" font-weight="700">Research &amp; Full-Stack</text>
+    <text x="54" y="44" fill="#52627A" font-family="'Inter', sans-serif" font-size="11">BCA 8.86 CGPA · M.Sc. BDA</text>
+  </g>
+</svg>

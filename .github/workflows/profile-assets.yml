@@ -1,0 +1,36 @@
+name: Refresh Profile Analytics SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate dark and light analytics SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stats_svg.py
+
+      - name: Commit updated analytics SVGs if changed
+        run: |
+          if [ -n "$(git status --porcelain assets/analytics/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add assets/analytics/
+            git commit -m "chore: refresh generated GitHub analytics SVGs"
+            git push
+          fi

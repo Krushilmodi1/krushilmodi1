@@ -1,0 +1,23 @@
+<svg width="680" height="260" viewBox="0 0 680 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub and LeetCode verified activity overview">
+  <rect x="2" y="2" width="676" height="256" rx="22" fill="#0B1322" stroke="#78D4FF" stroke-opacity="0.24" stroke-width="1.4"/>
+  <text x="28" y="38" fill="#78D4FF" font-family="'Inter', sans-serif" font-size="11" font-weight="700" letter-spacing="1">VERIFIED PROFILE TELEMETRY</text>
+  <text x="28" y="62" fill="#EDF4FF" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="19" font-weight="700">GitHub (@Krushilmodi1) &amp; LeetCode (@krushilModi)</text>
+
+  <!-- 3 GitHub Stat Tiles -->
+  <rect x="28" y="84" width="196" height="74" rx="14" fill="#142137" stroke="#78D4FF" stroke-opacity="0.16"/>
+  <text x="44" y="114" fill="#78D4FF" font-family="'Plus Jakarta Sans', sans-serif" font-size="24" font-weight="800">6 / 9</text>
+  <text x="44" y="138" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Personal Code / Public Repos</text>
+
+  <rect x="242" y="84" width="196" height="74" rx="14" fill="#142137" stroke="#78D4FF" stroke-opacity="0.16"/>
+  <text x="258" y="114" fill="#A99BFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="24" font-weight="800">2 / 2</text>
+  <text x="258" y="138" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Followers / Following</text>
+
+  <rect x="456" y="84" width="196" height="74" rx="14" fill="#142137" stroke="#78D4FF" stroke-opacity="0.16"/>
+  <text x="472" y="114" fill="#78D4FF" font-family="'Plus Jakarta Sans', sans-serif" font-size="24" font-weight="800">0</text>
+  <text x="472" y="138" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Total Stars (Public Repos)</text>
+
+  <!-- LeetCode Verified Strip -->
+  <rect x="28" y="174" width="624" height="62" rx="14" fill="#142137" stroke="#78D4FF" stroke-opacity="0.16"/>
+  <text x="44" y="200" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13" font-weight="700">LeetCode Problem Solving (@krushilModi)</text>
+  <text x="44" y="220" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="12">Total Solved: 24  &#183;  Easy: 18  &#183;  Medium: 5  &#183;  Hard: 1</text>
+</svg>

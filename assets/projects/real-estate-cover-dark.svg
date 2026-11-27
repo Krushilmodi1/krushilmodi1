@@ -1,0 +1,42 @@
+<svg width="720" height="370" viewBox="0 0 720 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nestory Real Estate Marketplace Architecture Visual">
+  <rect x="2" y="2" width="716" height="366" rx="22" fill="#0B1322" stroke="#78D4FF" stroke-opacity="0.26" stroke-width="1.5"/>
+  <text x="32" y="42" fill="#78D4FF" font-family="'Inter', sans-serif" font-size="11.5" font-weight="700" letter-spacing="1">TYPESCRIPT WEB APPLICATION ARCHITECTURE</text>
+  <text x="32" y="70" fill="#EDF4FF" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="22" font-weight="700">Nestory — Real Estate Marketplace</text>
+
+  <!-- 4 Architectural Module Nodes -->
+  <rect x="32" y="104" width="150" height="114" rx="16" fill="#142137" stroke="#78D4FF" stroke-opacity="0.30"/>
+  <text x="48" y="132" fill="#78D4FF" font-family="'Inter', sans-serif" font-size="11" font-weight="700">FRONTEND UI</text>
+  <text x="48" y="156" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13.5" font-weight="700">React 18 + TS</text>
+  <text x="48" y="178" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Vite · Tailwind CSS</text>
+  <text x="48" y="196" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">shadcn/ui · Radix</text>
+
+  <path d="M188 161H206" stroke="#78D4FF" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="210" y="104" width="150" height="114" rx="16" fill="#142137" stroke="#A99BFF" stroke-opacity="0.30"/>
+  <text x="226" y="132" fill="#A99BFF" font-family="'Inter', sans-serif" font-size="11" font-weight="700">STATE &amp; FORMS</text>
+  <text x="226" y="156" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13.5" font-weight="700">React Query</text>
+  <text x="226" y="178" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">React Hook Form</text>
+  <text x="226" y="196" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Zod Validation</text>
+
+  <path d="M366 161H384" stroke="#A99BFF" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="388" y="104" width="150" height="114" rx="16" fill="#142137" stroke="#78D4FF" stroke-opacity="0.30"/>
+  <text x="404" y="132" fill="#78D4FF" font-family="'Inter', sans-serif" font-size="11" font-weight="700">SERVICES</text>
+  <text x="404" y="156" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13.5" font-weight="700">Supabase</text>
+  <text x="404" y="178" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">AuthContext · Profiles</text>
+  <text x="404" y="196" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Properties · Favorites</text>
+
+  <path d="M544 161H562" stroke="#78D4FF" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="566" y="104" width="122" height="114" rx="16" fill="#142137" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <text x="580" y="132" fill="#CBD8EE" font-family="'Inter', sans-serif" font-size="11" font-weight="700">MODULES</text>
+  <text x="580" y="156" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13.5" font-weight="700">Maps &amp; Pay</text>
+  <text x="580" y="178" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Google Maps</text>
+  <text x="580" y="196" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="11.5">Admin Payments</text>
+
+  <!-- Verified Modules Pill Row -->
+  <rect x="32" y="242" width="656" height="96" rx="16" fill="#101B2E" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="52" y="272" fill="#EDF4FF" font-family="'Inter', sans-serif" font-size="13" font-weight="600">Implemented Workflows Verified in Repository</text>
+  <text x="52" y="298" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="12">&#8226; Property SearchFilters, FeaturedProperties, Gallery &amp; SimilarProperties views</text>
+  <text x="52" y="320" fill="#9CAECA" font-family="'Inter', sans-serif" font-size="12">&#8226; Add/NewProperty submission, Auth session context, Favorites &amp; PaymentHistory UI</text>
+</svg>
