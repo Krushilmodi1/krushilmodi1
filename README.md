@@ -31,6 +31,7 @@
 🔹 Experienced in developing APIs, dashboards & full-stack systems  
 🔹 Active learner focused on continuous improvement  
 🔹 Skilled in **Power BI, Data Visualization & Business Intelligence**
+🔹 Interested in **Predictive Analytics, Time Series Forecasting & Machine Learning**
 
 ### 🧠 DSA & Problem Solving
 - Solving coding challenges regularly on LeetCode
